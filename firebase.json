@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "curlybrace",
+    "site": "rasla-drone",
     "public": "public",
     "cleanUrls": true,
     "ignore": [

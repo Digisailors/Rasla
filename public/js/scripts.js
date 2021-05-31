@@ -384,7 +384,7 @@ $( window ).on( 'load', function(){
 		function googleMapsInit() {
 			var mapOptions = {
 				zoom: 11,
-				center: new google.maps.LatLng(40.6501038, -73.9495823),
+				center: new google.maps.LatLng(8.7930721, 78.1204384),
 				mapTypeControl: false,
 				fullscreenControl: false,
 				scalecontrol: false,
