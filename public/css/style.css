@@ -1628,17 +1628,17 @@ header.header-scroll .logo-strong{
 	background: #45a7ef;
 }
 
-/*-------------------- S-CONTACTS --------------------*/
-.s-main-contacts.s-contacts{
+/*-------------------- S-Contact us --------------------*/
+.s-main-Contact us.s-Contact us{
 	padding-top: 0;
 }
-.s-contacts{
+.s-Contact us{
 	padding: 180px 0;
 }
-.s-contacts .container{
+.s-Contact us .container{
 	position: relative;
 }
-.s-contacts .form-cover{
+.s-Contact us .form-cover{
 	max-width: 1170px;
 	margin: 0 auto;
 }
@@ -1930,7 +1930,7 @@ footer .soc-link{
 .about-top{
 	padding: 180px 0;
 }
-.contacts-top.about-top{
+.Contact us-top.about-top{
 	padding: 180px 0 166px;
 }
 .about-top-cover{
@@ -3409,7 +3409,7 @@ blockquote:before{
 	}
 	.s-clients,
 	.about-top,
-	.s-contacts {
+	.s-Contact us {
 		padding: 130px 0;
 	}
 	.border-item {
@@ -3522,7 +3522,7 @@ blockquote:before{
 	.we-offer-bottom .block-icon{
 		margin-bottom: 30px;
 	}
-	.contacts-top.about-top {
+	.Contact us-top.about-top {
 		padding: 130px 0 116px;
 	}
 	.slide-video {
@@ -4031,7 +4031,7 @@ blockquote:before{
 	.slide-video video{
 		max-width: 767px;
 	}
-	.contacts-top.about-top {
+	.Contact us-top.about-top {
 		padding: 110px 0 96px;
 	}
 	.s-testimonials.bg-testimonials {
@@ -4192,7 +4192,7 @@ blockquote:before{
 	.s-testimonials {
 		padding: 96px 0;
 	}
-	.s-contacts{
+	.s-Contact us{
 		padding: 96px 0 110px;
 	}
 	.s-clients {
