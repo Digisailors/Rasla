@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "rasla-drone",
+    "site": "renechip",
     "public": "public",
     "cleanUrls": true,
     "ignore": [
