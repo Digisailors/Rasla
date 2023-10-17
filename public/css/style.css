@@ -527,7 +527,8 @@ header.header-scroll .logo-strong{
 }
 .logo img{
 	display: block;
-	max-width: 100%;
+	/* max-width: 100%; */
+	width: 78%;
 }
 .btn {
 	background-color: transparent;
